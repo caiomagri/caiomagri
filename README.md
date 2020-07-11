@@ -1,4 +1,12 @@
+# Caio Eduardo Félix Magri
+[![Linkedin Badge](https://img.shields.io/badge/-CaioMagri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-magri-318a42a1/)](https://www.linkedin.com/in/caio-magri-318a42a1/)
+[![Gmail Badge](https://img.shields.io/badge/-kaioeduardofm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaioeduardofm@gmail.com)](mailto:kaioeduardofm@gmail.com)
+
+<hr>
+
 ### Hi there 👋
+
+I'm Caio
 
 <!--
 **kaiomagri/kaiomagri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
