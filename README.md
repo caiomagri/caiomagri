@@ -1,4 +1,4 @@
-## Eae! Eu sou a Caio Magri
+## Eae! Eu sou o Caio Magri
 
  <div>
   <a href="https://github.com/kaiomagri">
