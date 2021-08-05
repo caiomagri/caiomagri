@@ -1,14 +1,18 @@
-# Caio Eduardo Félix Magri
-![Alt text](https://www.mo.agency/hubfs/So%20you%20want%20to%20be%20a%20web%20developer.png)
-[![Linkedin Badge](https://img.shields.io/badge/-CaioMagri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-magri-318a42a1/)](https://www.linkedin.com/in/caio-magri-318a42a1/)
-[![Gmail Badge](https://img.shields.io/badge/-kaioeduardofm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaioeduardofm@gmail.com)](mailto:kaioeduardofm@gmail.com)
+## Eae! Eu sou a Caio Magri
 
-### Hi there 👋
-
-I'm Caio Magri. I work as a full stack developer and I build applications that help in the digital development of companies and people.
-
-- 🏢  I’m currently working on [Bradoo Technologies](https://bradoo.tech/)
-- 💻  Full stack Developer
-- :man_technologist: Enthusiastic of web, mobile technologies and Machine Learning.
-- :school: Graduated in Systems Analysis and Development.
-
+ <div>
+  <a href="https://github.com/kaiomagri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiomagri&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiomagri&layout=compact&langs_count=7&theme=vue-dark"/>
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/_caiomagri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kaioeduardofm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caio-magri-318a42a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/kaiomagri/kaiomagri/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
