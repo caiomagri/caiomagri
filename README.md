@@ -1,10 +1,24 @@
-## Eae! Eu sou o Caio Magri
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
+</div>  
+  
 
- <div>
-  <a href="https://github.com/caiomagri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiomagri&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomagri&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>
+### <div align="center">I'm Caio, a Software Engineer developer since 2018 🚀</div>  
+  
+
+- 🔭 I’m currently working on @loggi  
+  
+
+- 📚 I’m currently learning about Machine Learning  
+  
+
+- ❓ Ask me about anything related to Python stack and related technologies  
+  
+
+- 🎮 I like to play video game  
+  
+
+<br/>  
   
   ##
  
