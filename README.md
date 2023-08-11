@@ -6,7 +6,7 @@
 ### <div align="center">I'm Caio, a Software Engineer developer since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on @loggi  
+- 🔭 I’m currently working on @t4egroup  
   
 
 - 📚 I’m currently learning about Machine Learning  
