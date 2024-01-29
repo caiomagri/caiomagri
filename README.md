@@ -17,6 +17,7 @@
 - Artificial Intelligence
 - Django
 - FastApi
+- Web Development
 
 📚 Education:
 - [Degree] in Analysis and System Development
