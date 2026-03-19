@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Caio, a Software Engineer developer since 2018 🚀</div>
+### <div align="center">I'm Caio, a Software Engineer developer since 2016 🚀</div>
 
 👋 Hello there! I'm passionate software engineer with a strong foundation in system analysis and development. I hold a degree in Analysis and System Development and have further honed my skills with an MBA in Machine Learning.
 
